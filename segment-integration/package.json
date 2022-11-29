@@ -1,0 +1,17 @@
+{
+  "name": "segment-integration",
+  "version": "1.0.0",
+  "description": "segment test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "analytics-node": "^6.2.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
